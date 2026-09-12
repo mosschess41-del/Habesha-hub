@@ -84,7 +84,7 @@ const DEFAULT_AVATAR = "https://i.postimg.cc/mD3m5x3Y/default-avatar.png";
 
 const data = {
     creators: [
-        { title: "Selam", sub: "196 Followers", age: 21, city: "Addis Ababa", img: "https://i.imgur.com/jdP7PPk.jpg", isOnline: true },
+        { title: "Selam", sub: "196 Followers", age: 21, city: "Addis Ababa", img: "https://res.cloudinary.com/hubpqmdc/image/upload/v1789127750/images_32.jpg", isOnline: true },
         { title: "Hellen", sub: "750 Followers", age: 23, city: "Hawassa", img: "https://i.imgur.com/IMIJEro.jpg", isOnline: false },
         { title: "Rahel", sub: "633 Followers", age: 20, city: "Adama", img: "https://i.imgur.com/wNdeSBL.jpg", isOnline: true },
         { title: "Bethlehem", sub: "1.2k Followers", age: 22, city: "Addis Ababa", img: "https://i.imgur.com/08cPQSU.jpg", isOnline: true },
