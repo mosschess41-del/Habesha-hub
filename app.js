@@ -153,7 +153,7 @@ const data = {
         { title: "ወሲብ ብቻ", sub: "1.1k Members", img: "https://i.postimg.cc/hPH5tmjm/20d635a5782a514b7390c0f82424bf89.jpg" },
         { title: "bang bros ሀበሻ", sub: "4.3k Members", img: "https://i.postimg.cc/BQdVnF6Q/channels4-profile.jpg" },
         { title: "xnxx ሀበሻ ", sub: "2.1k Members", img: "https://i.postimg.cc/y8crgNgx/9daa102d9a1f1d3ea38336a388375d0c-fgraphic.png" },
-        { title: "anal ፈላጊ😉", sub: "6.8k Members", img: "https://i.postimg.cc/HkXPcLc9/90841542-009-9700.jpg" },
+        { title: "anal ፈላጊ", sub: "6.8k Members", img: "https://i.postimg.cc/HkXPcLc9/90841542-009-9700.jpg" },
         { title: "ሴክስ ቻት", sub: "600 Members", img: "https://i.postimg.cc/gkfT2hJ0/attachment-107066830.png" },
         { title: "let's talk about sex", sub: "900 Members", img: "https://i.postimg.cc/y8crgNgd/hot-sexy-woman-female-lady-legs-with-high-heels-for-bar-strip-club-logo-design-vector.jpg" },
         { title: "ራቁት live", sub: "1.2k Members", img: "https://i.postimg.cc/sg70Q2Qg/sexy-high-heels-with-g-string-for-bar-strip-club-logo-design-vector.jpg" },
